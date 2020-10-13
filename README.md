@@ -1,2 +1,7 @@
 # Sklearn
-The  tutorial of sci-kit learn machine learning library using real world example in Python
+A machine learning project that focues on the implement of NLP.
+
+Methods used:
+Bag of words
+Guessian naive bayes
+SVM
